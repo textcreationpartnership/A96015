@@ -1,0 +1,272 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A loving advertisement unto all those who joyn together to persecute the innocent.</title>
+            <author>Vokins, Joan, d. 1690.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1671</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96015</idno>
+            <idno type="STC">Wing V686</idno>
+            <idno type="STC">ESTC R186072</idno>
+            <idno type="EEBO-CITATION">47683525</idno>
+            <idno type="OCLC">ocm 47683525</idno>
+            <idno type="VID">172982</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96015)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172982)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2660:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A loving advertisement unto all those who joyn together to persecute the innocent.</title>
+                  <author>Vokins, Joan, d. 1690.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1671]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication from Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Apologetic works.</term>
+               <term>Quakers --  Persecutions --  England --  Early works to 1800.</term>
+               <term>Inner light --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:172982:1"/>
+            <head>A Loving
+ADVERTISMENT
+Unto all thoſe who
+Joyn Together
+TO
+PERSECUTE the INNOCENT.</head>
+            <p>
+               <hi>PIlate</hi> and <hi>Herod</hi> conſulted together in this abominable Work, and
+were made Friends; although before, they were at enmity, as
+you may ſee in Luke 23. and in the ſame chapter you may read,
+how <hi>Pilate</hi> called together the high Prieſts, the Rulers, and the People,
+who had joyned together, and falſly and vehemently accuſed the Innocent;
+and when thoſe Perſecutors were come (marke how <hi>Pilate</hi>'s words run)
+<hi>Ye have brought this man unto me, as one that perverteth the people: Behold</hi> (ſaith
+he) <hi>I have examined him before you,</hi> and <hi>I find no fault in him:</hi> Notwithſtand<g ref="char:EOLhyphen"/>ing
+their many Accuſations, as you may read of in that Chapter; no, nor
+yet <hi>Herod</hi> neither; for <hi>Pilate</hi> Sent him to <hi>Herod</hi> to be examined, and they
+found no cauſe for what they did, as <hi>Pilate</hi> himſelf confeſſeth no leſs then
+three times before them all, as you may ſee in verſ. 22. and yet for all this,
+thoſe wicked Perſecutors enmity was ſo great againſt the Truth, and their
+love to Chriſt Jeſus ſo ſmall, that they joyned together with <hi>Judas</hi> their
+Informer and crucified the Holy One. Oh conſider this you wicked Perſe<g ref="char:EOLhyphen"/>cutors,
+who have ſet your hands to the Devil's work! did he not enter into
+<hi>Judas</hi> before he Informed againſt Chriſt? O conſider whoſe work you are
+a doing! and ſee whether the Scriptures do not teſtifie unto the ſame ever
+ſince <hi>Cain</hi> and <hi>Abel?</hi> Oh be adviſed, and do not ſlay Gods Witneſs in your
+hearts, as <hi>Pilate</hi> and <hi>Herod,</hi> and the reſt of that wicked Crew did: for
+you may ſee there was ſomething in <hi>Pilate</hi> and <hi>Herod</hi> which let them ſee
+there was no fault in Jeſus; they had a Witneſs for him in their hearts,
+which if they had loved and obeyed, they would not have ſlain the Lord
+of Life: But they did then, as you do now, rebelled againſt it, and counted
+it of no value, and choſe rather to pleaſe wicked men, who did then, as
+you are now doing; they brought their Law to cover their wickedneſs;
+and ſaid, <hi>By their Law he ought to dye;</hi> and ſo they violated the rightous Law
+of God, which is Light, which manifeſted in their hearts there was no
+fault in him. Oh! conſider this, you envious Perſecutors, and turn to
+the Light of Chriſt Jeſus, which ſhineth in your dark hearts, and read your
+ſtates their; and ceaſe your evill doing before it be to late, leſt the godd of
+this World blind your eyes, and harden your hearts, and bring you to
+deſtruction, as he did <hi>Judas</hi> who was Reſiſter of the Light; I ſhall ap<g ref="char:EOLhyphen"/>peal
+to the Witneſs for God in your hearts, and come let us be tryed by it:
+Have you not done as bad as thoſe before mentioned, yea rather worſe;
+for you have reproachfully ſlandered, and faſlly accuſed us behind our back,
+and cauſed many of us to Suffer the loſs of our goods, without Examina<g ref="char:EOLhyphen"/>tion
+or Accuſation to our Faces; in this you out-ſtrip the cruelty of thoſe
+before-named, and the Heathen alſo; for they permitted <hi>Paul</hi> to be exa<g ref="char:EOLhyphen"/>mined,
+and alſo to ſpeak for himſelf, as you may ſee in the Scripture,
+which you call your Rule, and yet do err, not knowing the Scriptures
+nor the Power of God; for if you did, you would not wrong and perſecute
+your innocent Neighbours, who do you no harm, but deſire the everlaſt<g ref="char:EOLhyphen"/>ing
+good of all, even of our greateſt Enemies. Oh, do you do by us as
+you would have us do by you! would you have us perſecute and tear away
+your Goods, becauſe you go to your worſhip? or becauſe you will not come
+to ours? or would you not think it very hard to be ſo dealt by? Oh, come
+and be tryed by your own rule! And read from the beginning to the end,
+and ſee whether the Perſecutors were not the falſe Worſhippers in all Gene<g ref="char:EOLhyphen"/>rations,
+and the true Ones the Sufferers; and were not they as high in their
+wiſdom and Learning as you are, who Crucified Chriſt, and ſet your O<g ref="char:EOLhyphen"/>riginal
+over his head of <hi>Greek, Hebrew,</hi> and <hi>Latine?</hi> and they counted him of
+too low a degree for them to receive, and they mocked, and ſcoffed, and
+derided him, and thereby manifeſted their enmity againſt him, and his
+Followers then, as you do yours now againſt us.</p>
+            <p>Come down you High-minded Perſecuotrs, and bow before the Lord, and
+turn to his witneſs in your hearts which reproveth you in ſecret, and teſti<g ref="char:EOLhyphen"/>fieth
+for us; and it hath made many of you to confeſs to our innocency and
+harmleſneſs, notwithſtanding the many falſe aſperſions that the wicked hath
+caſt upon us; and although we have a witneſs in your hearts for us, yet
+your mercies are ſtill cruelties towards us. Oh, do not think to hide
+your ſelves from the all-ſeeing Eye of the Lord! for aſſuredly his righteous
+Judgments will find you out, &amp; then all falſe coverings will be too narrow:
+do you think your law will plead for you then, or them who ſet it forth ex<g ref="char:EOLhyphen"/>cuſe
+you? Oh no! then the righteous Law of God which you have violated
+and broken, and diſobeyed now: will then riſe up in judgment and bear
+witneſs againſt you, therefore leave off all your falſe coverings for your
+perſecution; for they are but deceit, and will deceive you, and ſtand you in
+no ſtead, when you come to account for your deeds done in the body.</p>
+            <p>And now you of my Neighbours and Country, who reſiſt the Spirit of
+the Lord, and follow the Imaginations of your own dark hearts, and boaſt
+your ſelves in Wickedneſs: As your Fore-fathers did, ſo do you; they
+boaſted and ſaid, <hi>They had the Law and the Prophets, and were</hi> Abraham'<hi>s Seed,
+and had one Father even God;</hi> and yet Chriſt told them plainly, <hi>They were of
+their father the Devil, and his works they were doing;</hi> and ſo are you now, who
+are a ſtriving againſt thoſe who worſhip in the Spirit and in the Truth.</p>
+            <p>Oh do not ſtrive to limit the Holy Spirit of the Lord, which is but one
+in the Male and in the Female! Were not the Scripture's Teſtimonies
+to be fulfill'd? Oh! when will you witneſs that Saying fulfill'd, which ſaith
+on this wiſe, <hi>I will pour forth of my Spirit upon all Fleſh, and my Sons and my
+Daughters ſhall Propheſie?</hi> [Mark] Its the Sons and Daughters of the Lord, that
+are led by his Spirit, and not the Perſecutors. Whilſt I walk'd with you in the
+Broad-way, which leadeth to Deſtruction, you did not perſecute me; but
+when it pleas'd the Lord to turn me from Darkneſs unto Light, and from
+Satans power unto his own; then your Enmity began: But when I went
+along with you to your Worſhip, I had what this World could afford of the
+Fatneſs and Fulneſs thereof; but I muſt needs tell you, I had Leanneſs in
+my Soul. Oh ſearch and try whether it be not ſo with you, who have gone
+this many years! For I went with as much Zeal, as any of you; there<g ref="char:EOLhyphen"/>fore
+let not your blind Zeal deceive you: I turn'd not from you through
+Enmity againſt you; but becauſe that dead Worſhip deceiv'd my Soul; for
+when Chriſt Jeſus, through his Love unto my ſoul, did make known his
+Light in my heart, which ſhew'd me the narrow Way, which leadeth unto
+Life; then I choſe rather to ſuffer with the People of God, then to enjoy
+your Favour, or all the Pleaſures, or Profits, or Honour, this World can
+afford.</p>
+            <p>And all you that think ye are a doing, as you ſhould do, turn unto the
+Light, that you may ſee what you are a doing; and may become from Per<g ref="char:EOLhyphen"/>ſecutors
+to be Sufferers, even as <hi>Paul</hi> was, through his obedience unto the
+Light; and he thought when he was in Darkneſs and blind Zeal, that he
+did as he ſhould do: Oh! therefore take you heed, and be no longer de<g ref="char:EOLhyphen"/>ceiv'd,
+but turn unto <hi>Paul</hi>'s Light, before it be too late; for the time
+haſteneth and paſſeth away, and there is nothing elſe that will ſtand you in
+ſtead when time ſhall be no more: O therefore be awakened and ariſe from
+the Dead, that Chriſt Jeſus may be your Light and your Leader, as he was
+<hi>David</hi>'s: For what doth it profit you to read the Scriptures, or to hear of
+the Promiſes or Mercies of the Lord unto the Children of Light? This
+will ſtand you in no ſtead, whil'ſt you your ſelves are in Darkneſs, and un<g ref="char:EOLhyphen"/>der
+the ſhaddow of Death. Oh do not heap up that unto your ſelves,
+which you have no Right unto! for you are in the Darkneſs, in the Perſe<g ref="char:EOLhyphen"/>cuting
+ſtate, which was, and is alwayes blind: And how dare you in ſuch
+a ſtate to appear before the Lord? Do you think his all-ſeeing Eye doth not
+behold your Doings? Yes verily; and his Righteous Judgments aſſuredly
+will find you out; and then all your talking of that you live not in, will
+do you no good.</p>
+            <p>How often have you and your Teachers been reading and talking of lo<g ref="char:EOLhyphen"/>ving
+Enemies, and of walking in the Light, as Chriſt is in the Light, and
+many ſuch like things? and yet are found hating of your ſoul's Friends,
+who are telling you the Truth, and reproving you for Evil; and you are
+ſo far from walking in the Light, that you remain in your Sins, and plead
+for ſo doing until the laſt: Do you think that the Lord will be limitted by
+you until the laſt Hour?</p>
+            <p>Oh turn to the Reproofs of his Light in your hearts; which maketh ma<g ref="char:EOLhyphen"/>nifeſt
+the evil of your wayes, whil'ſt the Day of God's Love laſteth unto
+you! that through his precious Judgments your ſouls may come to be re<g ref="char:EOLhyphen"/>deemed;
+for its through Judgment that <hi>Sion</hi> witneſſeth Redemption, and the
+honeſt heart loveth Judgment; and if you will obey the Light, it will lead
+you into Judgment; and when you come to witneſs your ſouls redeem'd
+thereby, then you will witneſs <hi>David</hi>'s ſtate, who ſaid, <hi>O Lord, how I love
+thy Judgments;</hi> and he deſir'd the Lord, <hi>to ſend forth his Truth and his Light,
+to lead him;</hi> and it was his Law, and he walk'd in it: And if you would
+do ſo, you would have the Royal Law of Love in your hearts; and then
+you would have Fellowſhip with Jeſus, and feel the Effects of his Blood to
+cleanſe you from all ſin on this ſide the Grave, and then you will plead no
+longer to ſtrengthen the Devil's kingdom; for, if you die in your ſins, you
+will add greatly to his Kingdom; for thoſe that live and die in their ſins do
+never inherit the Kingdom of Heaven; for no unclean thing can come
+there, but they are for the Lake that burneth forever.</p>
+            <closer>
+               <dateline>Written <date>the 9th Day
+of the 11th Moneth
+1670.</date>
+               </dateline>
+               <signed>By one that wiſhes well to all Souls,
+<hi>Joan Vokins.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
